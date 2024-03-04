@@ -1,0 +1,33 @@
+*{
+    text-decoration: color(srgb rgb(242, 0, 255));
+}
+h1{
+    text-align: center;
+    color: rgb(128, 240, 176);
+    padding: 20px;
+}
+body {
+    background-image: url(https://s1.1zoom.me/b5050/554/Orchid_Texture_Violet_Petals_552281_3840x2400.jpg);
+    color: rgba(255, 255, 255, 0.925);
+}
+footer {
+    background-color :#FF339F;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.social-icons a {
+    color: #fff;
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.social-icons a:hover {
+    color: #ccc;
+}
